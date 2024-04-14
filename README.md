@@ -81,8 +81,7 @@ Middle school students
 4)  Learning through music helps relieve boredom and helps people who do not have any English or musical skills to learn in a more comfortable atmosphere.
 5)  Repetitive practice, which is essential for English class progress, becomes possible through the use of Suno. Students can also develop listening and speaking skills by listening to and singing songs repeatedly.
 
-
-
+---
 
 ## Tool Utilization Class Preview
 1. Study one chapter.
