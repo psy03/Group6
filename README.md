@@ -1,15 +1,15 @@
 # G6_Project 1
 
-## 🤍Group 6
-☁️**Group members**
+## Group 6
+**Group members**
 - Sinyeong park, Soyeon Park, Hyewon Park 
 
-☁️**Role Allocation**
+**Role Allocation**
 - **File writer**: Soyeon, Hyewon
 - **Video Maker**: Sinyeong
 - **Script Writer & Presenter**: together
 
-
+---
 
 ## Title
 Improving students' English skills through song production activities
