@@ -50,3 +50,15 @@ Suno
 3) The memory of musical rhythms remains much more pronounced in students' head, and it is also easy to induce interest.
 4)  Learning through music helps relieve boredom and helps people who do not have any English or musical skills to learn in a more comfortable atmosphere.
 5)  Repetitive practice, which is essential for English class progress, becomes possible through the use of Suno. Students can also develop listening and speaking skills by listening to and singing songs repeatedly.
+
+
+## Tool Utilization Class Preview
+1. Study one chapter.
+2. Summarize the learned content.
+3. Write lyrics using the learned content.
+4. Correct errors with Grammarly.
+5. Create a song using Suno.
+6. Submit and share together.
+7. Vote for the favorite song.
+8. Select the top song as the chapter's representative song.
+9. Sing together (practice speaking).
