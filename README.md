@@ -21,7 +21,7 @@ Middle school students
 ## Meeting
 ### 4/9 (first meeting)
 |Meeting Content|We looked for textbooks that are actually used in middle schools to understand _the current curriculum_ of middle education. We looked for tools that could make the learning more interesting for the students and help them in terms of efficiency.|
-|--|--|
+|Selected Digital Tools|Suno, Grammarly|
 
 
 
