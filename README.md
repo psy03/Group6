@@ -1,6 +1,6 @@
 # G6_Project 1
 
-## 🧸 Group 6
+## Group 6
 **Group members**
 - Sinyeong park, Soyeon Park, Hyewon Park 
 
@@ -21,7 +21,9 @@ Middle school students
 ## Meeting content
 ### 4/9 (first meeting)
 We looked for textbooks that are actually used in middle schools to understand the current curriculum of middle education,
+
 and found that a unit is mainly composed of _listening, speaking, reading, and writing_.
+
 We looked for tools that could make the learning more interesting for the students and help them in terms of efficiency.
 
 
