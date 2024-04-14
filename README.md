@@ -1,6 +1,6 @@
 # G6_Project 1
 
-## Group 6
+## 🧸Group 6
 **Group members**
 - Sinyeong park, Soyeon Park, Hyewon Park 
 
@@ -18,7 +18,8 @@ Improving students' English skills through song production activities
 ## Target
 Middle school students
 
-## 혜원아 여기다 회의 날짜/ 내용 넣어주면 돼!
+## Meeting content
+### 4/9 (first meeting)
 
 
 ## Digital tools used  *__각자 사진 첨부 필요__*
