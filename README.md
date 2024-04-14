@@ -1,4 +1,4 @@
-# G6_Project 1
+# 🐈 G6_Project 1
 
 ## Group 6
 **Group members**
@@ -23,7 +23,7 @@ Middle school students
 |Categories|Content|
 |--|--|
 |Meeting Content|We looked for textbooks that are actually used in middle schools to understand _the current curriculum_ of middle education.<br>We looked for tools that could make the learning more interesting for the students and help them in terms of efficiency.|
-|Selected Digital Tools|[😻 Suno](https://suno.com/)<br>[😽 grammarly](https://www.grammarly.com/)|
+|Selected Digital Tools|[😻 Suno](https://suno.com/)<br>[😾 grammarly](https://www.grammarly.com/)|
 
 ### 4/12 (second meeting)
 |Categories|Content|
@@ -53,7 +53,7 @@ Middle school students
 4) This allows students to learn more about the unit because they can create their own questions.
 
 
-# 😽 Grammarly
+# 😾 Grammarly
 |![image](https://github.com/psy03/Group6/assets/165755681/7e055407-8c4a-44e2-9e7c-b4053d9eaf51)|![image](https://github.com/psy03/Group6/assets/165755681/a7b7f2fc-64d7-48b2-88b2-909aac108c1f)|
 |--|--|
 
