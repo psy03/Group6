@@ -34,17 +34,19 @@ Middle school students
 
 # Digital tools used
 
-## QuizN
-### primary function
+## 😼 QuizN
+### Primary Function
 - The first tool is **'QuizN'** to check what you have learned. It allows students who participate in the quiz show to feel the fun and immersion of the competition through real-time ranking and checking the results. 
 - It is used to check whether students understand the content well after a unit is finished and what they have learned is organized.
 ![This is an image](/path/to/image.jpg)  *__각자 사진 첨부 필요__*
 
-## Grammarly
+## 😽 Grammarly
+### Primary Function
 - 'Grammarly' is an online document correction tool that helps improve the quality of grammar, spelling, syntax, and expression. Additionally, it assists users in enhancing their writing skills by identifying mistakes and providing recommendations while composing their text. Through this, students can produce more accurate and professional documents.
 ![This is an image](/path/to/image.jpg)   *__각자 사진 첨부 필요__*
 
-## Suno
+## 😻 Suno
+### Primary Function
 - Suno is a website that produces songs in a short time when topics, words, and sentences are written and put in. You can also download the songs that have been made.
 ![This is an image](/path/to/image.jpg)   *__각자 사진 첨부 필요__*
 
