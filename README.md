@@ -6,7 +6,7 @@ Group members
 
 Role Allocation
 >* **File writer**: Soyeon, Hyewon
-> **Video Maker**: Sinyeong
+>* **Video Maker**: Sinyeong
 >* **Script Writer & Presenter**: together
 
 
