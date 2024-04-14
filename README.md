@@ -18,4 +18,3 @@ Middle school students
 
 ## Digital tools used
 1. QuizN
-features
