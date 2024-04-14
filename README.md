@@ -22,8 +22,8 @@ Middle school students
 ### 4/9 (first meeting)
 |Categories|Content|
 |--|--|
-|Meeting Content|We looked for textbooks that are actually used in middle schools to understand _the current curriculum_ of middle education. We looked for tools that could make the learning more interesting for the students and help them in terms of efficiency.|
-|Selected Digital Tools|[Suno](https://github.com/MK316/Coding4ET/blob/main/README.md)<br>[grammerly](https://github.com/MK316/Spring2024/blob/main/DLTESOL/data/W03_Review.pdf)|
+|Meeting Content|We looked for textbooks that are actually used in middle schools to understand _the current curriculum_ of middle education.<br>We looked for tools that could make the learning more interesting for the students and help them in terms of efficiency.|
+|Selected Digital Tools|[Suno](https://suno.com/)<br>[grammerly](https://www.grammarly.com/)|
 
 
 
