@@ -2,12 +2,12 @@
 
 ## Group 6
 **Group members**
->* Sinyeong park, Soyeon Park, Hyewon Park 
+- Sinyeong park, Soyeon Park, Hyewon Park 
 
 **Role Allocation**
->* **File writer**: Soyeon, Hyewon
->* **Video Maker**: Sinyeong
->* **Script Writer & Presenter**: together
+- **File writer**: Soyeon, Hyewon
+- **Video Maker**: Sinyeong
+- **Script Writer & Presenter**: together
 
 
 
