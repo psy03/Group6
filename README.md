@@ -87,8 +87,8 @@ Middle school students
 1. Study one chapter.
 2. Summarize the learned content.
 3. Write lyrics using the learned content.
-4. Correct errors with Grammarly.
-5. Create a song using Suno.
+4. Correct errors with **Grammarly**.
+5. Create a song using **Suno**.
 6. Submit and share together.
 7. Vote for the favorite song.
 8. Select the top song as the chapter's representative song.
@@ -108,13 +108,13 @@ Middle school students
 ## Enhanced Lesson Process
 1. Study one chapter
 2. Summarize the learned content
-3. Verify the learned content through QuizN
+3. Verify the learned content through **QuizN**
 4. Reiterate key content essential for songs
 5. Form teams of 4-5 members
 6. Create song lyrics using learned content
-7. Correct errors with Grammarly
+7. Correct errors with **Grammarly**
 8. Receive lyrics approval from the teacher
-9. Collaborate with the teacher to create songs using Suno
+9. Collaborate with the teacher to create songs using **Suno**
 10. Submit and share with other teams
 11. Vote for favorite songs
 12. Select the most voted song as the chapter's representative song
