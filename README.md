@@ -53,11 +53,11 @@ Middle school students
 
 
 ## 😽 Grammarly
-![image](https://github.com/psy03/Group6/assets/165755681/7e055407-8c4a-44e2-9e7c-b4053d9eaf51)
+|![image](https://github.com/psy03/Group6/assets/165755681/7e055407-8c4a-44e2-9e7c-b4053d9eaf51)|![image](https://github.com/psy03/Group6/assets/165755681/a7b7f2fc-64d7-48b2-88b2-909aac108c1f)|
+|--|--|
 
 ### Primary Function
 - 'Grammarly' is an online document correction tool that helps improve the quality of grammar, spelling, syntax, and expression. Additionally, it assists users in enhancing their writing skills by identifying mistakes and providing recommendations while composing their text. Through this, students can produce more accurate and professional documents.
-- ![image](https://github.com/psy03/Group6/assets/165755681/a7b7f2fc-64d7-48b2-88b2-909aac108c1f)
 
 ### Digital Tools Selection Reasons
 1) Clear and polished communication makes educational materials more accessible to all students, including those with learning disabilities or English as a second language.  
@@ -67,11 +67,11 @@ Middle school students
 
 
 ## 😻 Suno
-![image](https://github.com/psy03/Group6/assets/165755681/357cf846-9187-47f0-be30-506094edf4a5)
+|![image](https://github.com/psy03/Group6/assets/165755681/357cf846-9187-47f0-be30-506094edf4a5)|![image](https://github.com/psy03/Group6/assets/165755681/5c397e50-21bb-496b-b0be-2891ce32edc0)|
+|--|--|
 
 ### Primary Function
 - Suno is a website that produces songs in a short time when topics, words, and sentences are written and put in. You can also download the songs that have been made.
-![image](https://github.com/psy03/Group6/assets/165755681/5c397e50-21bb-496b-b0be-2891ce32edc0)
 
 ### Digital Tools Selection Reasons 
 1) students can break away from memorizing classes and strengthen their abilities through singing. 
