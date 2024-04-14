@@ -18,10 +18,12 @@ Improving students' English skills through song production activities
 ## Target
 Middle school students
 
-## Meeting content
+## Meeting
 ### 4/9 (first meeting)
-We looked for textbooks that are actually used in middle schools to understand _the current curriculum_ of middle education.
-We looked for tools that could make the learning more interesting for the students and help them in terms of efficiency.
+|Meeting Content|We looked for textbooks that are actually used in middle schools to understand _the current curriculum_ of middle education. We looked for tools that could make the learning more interesting for the students and help them in terms of efficiency.|
+|--|--|
+
+
 
 
 ## Digital tools used  *__각자 사진 첨부 필요__*
