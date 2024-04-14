@@ -58,7 +58,7 @@ Middle school students
 |--|--|
 
 ## 1. Primary Function
-- 'Grammarly' is an online document correction tool that helps improve the quality of grammar, spelling, syntax, and expression. Additionally, it assists users in enhancing their writing skills by identifying mistakes and providing recommendations while composing their text. Through this, students can produce more accurate and professional documents.
+- **'Grammarly'** is an online document correction tool that helps improve the quality of grammar, spelling, syntax, and expression. Additionally, it assists users in enhancing their writing skills by identifying mistakes and providing recommendations while composing their text. Through this, students can produce more accurate and professional documents.
 
 ## 2. Digital Tools Selection Reasons
 1) Clear and polished communication makes educational materials more accessible to all students, including those with learning disabilities or English as a second language.  
@@ -72,7 +72,7 @@ Middle school students
 |--|--|
 
 ## 1. Primary Function
-- Suno is a website that produces songs in a short time when topics, words, and sentences are written and put in. You can also download the songs that have been made.
+- **Suno** is a website that produces songs in a short time when topics, words, and sentences are written and put in. You can also download the songs that have been made.
 
 ## 2. Digital Tools Selection Reasons 
 1) students can break away from memorizing classes and strengthen their abilities through singing. 
