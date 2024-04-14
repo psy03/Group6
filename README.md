@@ -48,9 +48,11 @@ Middle school students
 4) This allows students to learn more about the unit because they can create their own questions.
 
 ## 😽 Grammarly
+![image](https://github.com/psy03/Group6/assets/165755681/7e055407-8c4a-44e2-9e7c-b4053d9eaf51)
+![image](https://github.com/psy03/Group6/assets/165755681/a7b7f2fc-64d7-48b2-88b2-909aac108c1f)
+
 ### Primary Function
 - 'Grammarly' is an online document correction tool that helps improve the quality of grammar, spelling, syntax, and expression. Additionally, it assists users in enhancing their writing skills by identifying mistakes and providing recommendations while composing their text. Through this, students can produce more accurate and professional documents.
-![This is an image](/path/to/image.jpg)   *__각자 사진 첨부 필요__*
 
 ### Digital Tools Selection Reasons
 1) Clear and polished communication makes educational materials more accessible to all students, including those with learning disabilities or English as a second language.  
@@ -61,7 +63,6 @@ Middle school students
 ## 😻 Suno
 ### Primary Function
 - Suno is a website that produces songs in a short time when topics, words, and sentences are written and put in. You can also download the songs that have been made.
-![This is an image](/path/to/image.jpg)   *__각자 사진 첨부 필요__*
 
 ### Digital Tools Selection Reasons 
 1) students can break away from memorizing classes and strengthen their abilities through singing. 
