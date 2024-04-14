@@ -40,7 +40,6 @@ Middle school students
 ### Primary Function
 - The first tool is **'QuizN'** to check what you have learned. It allows students who participate in the quiz show to feel the fun and immersion of the competition through real-time ranking and checking the results. 
 - It is used to check whether students understand the content well after a unit is finished and what they have learned is organized.
-![This is an image](/path/to/image.jpg)  *__각자 사진 첨부 필요__*
 
 ### Digital Tools Selection Reasons
 1) It is easy to access because it does not require separate membership and log in to solve the quiz. 
