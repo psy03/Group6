@@ -23,8 +23,12 @@ Middle school students
 |Categories|Content|
 |--|--|
 |Meeting Content|We looked for textbooks that are actually used in middle schools to understand _the current curriculum_ of middle education.<br>We looked for tools that could make the learning more interesting for the students and help them in terms of efficiency.|
-|Selected Digital Tools|[Suno](https://suno.com/)<br>[grammerly](https://www.grammarly.com/)|
+|Selected Digital Tools|[Suno](https://suno.com/)<br>[grammarly](https://www.grammarly.com/)|
 
+### 4/12 (second meeting)
+|Categories|Content|
+|--|--|
+|Meeting Content|--|
 
 
 
