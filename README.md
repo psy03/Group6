@@ -96,10 +96,10 @@ Middle school students
 
 
 ## The limitations and complementary points of teaching methods
-1) There may be a tendency to overly rely on 'Grammarly'.
-2) Occasionally, errors may occur in 'Grammarly' due to its failure to grasp contextual nuances, resulting in unintended alterations in students' writing.
+1) There may be a tendency to overly rely on **'Grammarly'**.
+2) Occasionally, errors may occur in **'Grammarly'** due to its failure to grasp contextual nuances, resulting in unintended alterations in students' writing.
 3) The process of creating song lyrics demands creativity, which may lead students to feel burdened and encounter difficulties.
-4) Students who are unfamiliar with digital tools such as 'Suno' or 'Grammarly' may face challenges.
+4) Students who are unfamiliar with digital tools such as **'Suno' or 'Grammarly'** may face challenges.
 
 - The potential for unnecessary consumption of class time and potential delays in lesson progression due to the aforementioned factors underscores the importance of proper time allocation. Additionally, providing students with advance instructions on how to effectively utilize the tools is imperative.
 - The process of informing students about the content that must be included in song lyrics from the lessons and the contents that needs to be reviewed is necessary.
