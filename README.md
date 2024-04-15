@@ -75,51 +75,51 @@ Middle school students
 - **Suno** is a website that produces songs in a short time when topics, words, and sentences are written and put in. You can also download the songs that have been made.
 
 ## 2. Digital Tools Selection Reasons 
-1.  Students can break away from memorizing classes and strengthen their abilities through singing. 
-2.  The activity of using a given amount of time to perform assignments enables students to achieve a sense of accomplishment.
-3.  The memory of musical rhythms remains much more pronounced in students' head, and it is also easy to induce interest.
-4.  Learning through music helps relieve boredom and helps people who do not have any English or musical skills to learn in a more comfortable atmosphere.
-5.  Repetitive practice, which is essential for English class progress, becomes possible through the use of Suno. Students can also develop listening and speaking skills by listening to and singing songs repeatedly.
+1)  Students can break away from memorizing classes and strengthen their abilities through singing. 
+2)  The activity of using a given amount of time to perform assignments enables students to achieve a sense of accomplishment.
+3)  The memory of musical rhythms remains much more pronounced in students' head, and it is also easy to induce interest.
+4)  Learning through music helps relieve boredom and helps people who do not have any English or musical skills to learn in a more comfortable atmosphere.
+5)  Repetitive practice, which is essential for English class progress, becomes possible through the use of Suno. Students can also develop listening and speaking skills by listening to and singing songs repeatedly.
 
 ---
 
 ## Tool Utilization Class Preview
-1.  Study one chapter.
-2.  Summarize the learned content.
-3.  Write lyrics using the learned content.
-4.  Correct errors with **Grammarly**.
-5.  Create a song using **Suno**.
-6.  Submit and share together.
-7.  Vote for the favorite song.
-8.  Select the top song as the chapter's representative song.
-9.  Sing together (practice speaking).
+1)  Study one chapter.
+2)  Summarize the learned content.
+3)  Write lyrics using the learned content.
+4)  Correct errors with **Grammarly**.
+5)  Create a song using **Suno**.
+6)  Submit and share together.
+7)  Vote for the favorite song.
+8)  Select the top song as the chapter's representative song.
+9)  Sing together (practice speaking).
 
 
 ## The limitations and complementary points of teaching methods
-1.  There may be a tendency to overly rely on **'Grammarly'**.
-2.  Occasionally, errors may occur in **'Grammarly'** due to its failure to grasp contextual nuances, resulting in unintended alterations in students' writing.
-3.  The process of creating song lyrics demands creativity, which may lead students to feel burdened and encounter difficulties.
-4.  Students who are unfamiliar with digital tools such as **'Suno' or 'Grammarly'** may face challenges.
+1)  There may be a tendency to overly rely on **'Grammarly'**.
+2)  Occasionally, errors may occur in **'Grammarly'** due to its failure to grasp contextual nuances, resulting in unintended alterations in students' writing.
+3)  The process of creating song lyrics demands creativity, which may lead students to feel burdened and encounter difficulties.
+4)  Students who are unfamiliar with digital tools such as **'Suno' or 'Grammarly'** may face challenges.
 
 - The potential for unnecessary consumption of class time and potential delays in lesson progression due to the aforementioned factors underscores the importance of proper time allocation. Additionally, providing students with advance instructions on how to effectively utilize the tools is imperative.
 - The process of informing students about the content that must be included in song lyrics from the lessons and the contents that needs to be reviewed is necessary.
 
 
 ## Enhanced Lesson Process
-1.  Study one chapter
-2.  Summarize the learned content
-3.  Verify the learned content through **QuizN**
-4.  Reiterate key content essential for songs
-5.  Form teams of 4-5 members
-6.  Create song lyrics using learned content
-7.  Correct errors with **Grammarly**
-8.  Receive lyrics approval from the teacher
-9.  Collaborate with the teacher to create songs using **Suno**
-10.  Submit and share with other teams
-11.  Vote for favorite songs
-12.  Select the most voted song as the chapter's representative song
-13.  Sing together (practice speaking)
-14.  Conduct 2-5 grammar quizzes at the end of each chapter
+1)  Study one chapter
+2)  Summarize the learned content
+3)  Verify the learned content through **QuizN**
+4)  Reiterate key content essential for songs
+5)  Form teams of 4-5 members
+6)  Create song lyrics using learned content
+7)  Correct errors with **Grammarly**
+8)  Receive lyrics approval from the teacher
+9)  Collaborate with the teacher to create songs using **Suno**
+10)  Submit and share with other teams
+11)  Vote for favorite songs
+12)  Select the most voted song as the chapter's representative song
+13)  Sing together (practice speaking)
+14)  Conduct 2-5 grammar quizzes at the end of each chapter
 
 - Applying the aforementioned improvement, we have incorporated the 'QuizN' program into the learning process. This decision was made considering its usefulness in engaging students with various types of quizzes, and allowing teachers to review individual student answers, thus enhancing overall effectiveness.
 
