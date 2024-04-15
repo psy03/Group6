@@ -108,6 +108,8 @@ Middle school students
 
 
 ## Enhanced Lesson Process
+![디지털리터러시-자료-002](https://github.com/psy03/Group6/assets/165755681/b362733b-1803-450d-9386-1c1c18ae7cfe)
+
 1)  Study one chapter
 2)  Summarize the learned content
 3)  Verify the learned content through **QuizN**
