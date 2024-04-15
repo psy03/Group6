@@ -84,6 +84,8 @@ Middle school students
 ---
 
 ## Tool Utilization Class Preview
+![디지털리터러시-자료001](https://github.com/psy03/Group6/assets/165755681/60edd1f0-504f-44da-b3b7-8321973af653)
+
 1)  Study one chapter.
 2)  Summarize the learned content.
 3)  Write lyrics using the learned content.
