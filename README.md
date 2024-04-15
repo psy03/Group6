@@ -125,7 +125,7 @@ Middle school students
 13)  Sing together (practice speaking)
 14)  Conduct 2-5 grammar quizzes at the end of each chapter
 
-|Applying the aforementioned improvement, we have incorporated the 'QuizN' program into the learning process. This decision was made considering its usefulness in engaging students with various types of quizzes, and allowing teachers to review individual student answers, thus enhancing overall effectiveness.|
+|Applying the aforementioned improvement, we have incorporated the 'QuizN' program into the learning process.<br>This decision was made considering its usefulness in engaging students with various types of quizzes,<br>and allowing teachers to review individual student answers, thus enhancing overall effectiveness.|
 |--|
 
 
