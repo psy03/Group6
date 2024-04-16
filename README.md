@@ -25,12 +25,7 @@ Middle school students
 |--|--|
 |Meeting Content|We looked for textbooks that are actually used in middle schools to understand _the current curriculum_ of middle education.<br>We looked for tools that could make the learning more interesting for the students and help them in terms of efficiency.|
 |Selected Digital Tools|[😻 Suno](https://suno.com/)<br>[😾 grammarly](https://www.grammarly.com/)|
-|Selected Questions|**1. What digital tool are you exploring, and what is its primary function?** <br>
-Provide a brief overview of the tool, mentioning its name, main features, and its purpose in English learning or teaching. Include a specific example of how it's used. <br>
-**2. How does this tool integrate with traditional English teaching methods?** <br>
-Discuss specific ways the tool can complement or enhance traditional teaching methods, using detailed examples or scenarios. <br>
-**3. What are the unique advantages of using this tool for English learning or teaching?** <br>
-Identify the benefits this tool offers, focusing on concrete examples that highlight these advantages in practice.<br>
+|Selected Questions|**1. What digital tool are you exploring, and what is its primary function?** <br>Provide a brief overview of the tool, mentioning its name, main features, and its purpose in English learning or teaching. Include a specific example of how it's used. <br>**2. How does this tool integrate with traditional English teaching methods?** <br>Discuss specific ways the tool can complement or enhance traditional teaching methods, using detailed examples or scenarios. <br>**3. What are the unique advantages of using this tool for English learning or teaching?** <br>Identify the benefits this tool offers, focusing on concrete examples that highlight these advantages in practice.<br>
 <br>|
 
 ### 4/12 (second meeting)
