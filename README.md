@@ -32,7 +32,13 @@ Middle school students
 |--|--|
 |Meeting Content|--|
 |Selected Digital Tools|[😼 QuizN](https://www.quizn.show/)|
+|Selected Questions|**1. What digital tool are you exploring, and what is its primary function?** <br>Provide a brief overview of the tool, mentioning its name, main features, and its purpose in English learning or teaching. Include a specific example of how it's used.<br>**2. How does this tool integrate with traditional English teaching methods?** <br>
+Discuss specific ways the tool can complement or enhance traditional teaching methods, using detailed examples or scenarios.<br>**3. What are the unique advantages of using this tool for English learning or teaching?** <br>Identify the benefits this tool offers, focusing on concrete examples that highlight these advantages in practice.<br>**8. What are the potential challenges or limitations of using this tool in an English learning or teaching context?** <br>Analyze any drawbacks, suggesting practical solutions or workarounds with detailed explanations.|
+|--|--|
 
+
+|Selected Questions| **4. How user-friendly is the tool for both teachers and students?** <br>Evaluate the tool's ease of use, providing specific instructions or steps for a basic task within the tool to illustrate its user-friendliness.<br>**5. What kind of interactive features does the tool offer to engage students?** <br>Describe the tool’s interactive elements, giving a concrete example of how these features could be used in a lesson to engage students.<br> **9. Can you provide a detailed, imaginative example of how you anticipate this tool could be effectively used in an educational setting?**<br>Speculate on a specific scenario or lesson plan, including detailed instructions on how the tool could be implemented to enhance English learning or teaching.|
+|--|--|
 ---
 
 # Digital tools used
