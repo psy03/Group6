@@ -33,7 +33,6 @@ Middle school students
 |Meeting Content|--|
 |Selected Digital Tools|[😼 QuizN](https://www.quizn.show/)|
 |Selected Questions| **4. How user-friendly is the tool for both teachers and students?** <br>Evaluate the tool's ease of use, providing specific instructions or steps for a basic task within the tool to illustrate its user-friendliness.<br>**5. What kind of interactive features does the tool offer to engage students?** <br>Describe the tool’s interactive elements, giving a concrete example of how these features could be used in a lesson to engage students.<br> **9. Can you provide a detailed, imaginative example of how you anticipate this tool could be effectively used in an educational setting?**<br>Speculate on a specific scenario or lesson plan, including detailed instructions on how the tool could be implemented to enhance English learning or teaching.|
-|--|--|
 ---
 
 # Digital tools used
